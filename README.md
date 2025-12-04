@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A passionate Fullstack, Python developer who loves building impactful projects, exploring new technologies, and solving real-world problems with code. Always eager to learn, collaborate, and contribute to open-source communities.
 
 
