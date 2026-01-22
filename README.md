@@ -1,27 +1,27 @@
 <!-- CYBER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6a0572,100:c3073f&height=180&section=header&text=Hi,%20I'm%20Nilam&fontSize=50&fontColor=ff00ff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Hi,%20I'm%20Nilam&fontSize=50&fontColor=94a3b8&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<h3 align="center" style="color:#ff00ff">
+<h3 align="center" style="color:#94a3b8">
   🌌 Full-Stack Python Developer • Problem Solver • Open Source Enthusiast
 </h3>
 
 <p align="center">
   <a href="mailto:chakrabortynilam88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=000"/>
+    <img src="https://img.shields.io/badge/Email-94a3b8?style=for-the-badge&logo=gmail&logoColor=1a1a2e"/>
   </a>
   <a href="https://github.com/NilamXSC">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff00ff"/>
+    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=94a3b8"/>
   </a>
   <a href="https://linkedin.com/in/chakrabortynilam9">
-    <img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-94a3b8?style=for-the-badge&logo=linkedin&logoColor=1a1a2e"/>
   </a>
   <a href="https://x.com/Nilam007xsc">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ff00ff"/>
+    <img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=94a3b8"/>
   </a>
   <a href="https://medium.com/@chakrabortynilam88">
-    <img src="https://img.shields.io/badge/Medium-ff00ff?style=for-the-badge&logo=medium&logoColor=000"/>
+    <img src="https://img.shields.io/badge/Medium-94a3b8?style=for-the-badge&logo=medium&logoColor=1a1a2e"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 <!-- TYPING QUOTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=Building+impactful+projects+with+code;Exploring+new+tech+%7C+Solving+real+problems;Always+learning+%7C+Always+collaborating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94a3b8&center=true&vCenter=true&width=900&lines=Building+impactful+projects+with+code;Exploring+new+tech+%7C+Solving+real+problems;Always+learning+%7C+Always+collaborating" />
 </p>
 
 ---
@@ -60,75 +60,75 @@ interests:
 ### 🧑‍💻 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/C%23-1a1a2e?style=for-the-badge&logo=csharp&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=94a3b8"/>
 </p>
 
 ### 📚 Frameworks & Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Svelte-0d1117?style=for-the-badge&logo=svelte&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vuedotjs&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Svelte-1a1a2e?style=for-the-badge&logo=svelte&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Bootstrap-1a1a2e?style=for-the-badge&logo=bootstrap&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Three.js-1a1a2e?style=for-the-badge&logo=threedotjs&logoColor=94a3b8"/>
 </p>
 
 ### 🗄️ Data & ML
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Prisma-1a1a2e?style=for-the-badge&logo=prisma&logoColor=94a3b8"/>
 </p>
 
 ### 🛠️ Tools & Infrastructure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge&logo=kubernetes&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Sentry-1a1a2e?style=for-the-badge&logo=sentry&logoColor=94a3b8"/>
 </p>
 
 ### ☁️ Cloud Matrix
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Azure-1a1a2e?style=for-the-badge&logo=microsoftazure&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Cloudflare-1a1a2e?style=for-the-badge&logo=cloudflare&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Netlify-1a1a2e?style=for-the-badge&logo=netlify&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Render-1a1a2e?style=for-the-badge&logo=render&logoColor=94a3b8"/>
 </p>
 
 ### 🎮 Game Dev & Creative
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Unreal-0d1117?style=for-the-badge&logo=unrealengine&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Adobe-0d1117?style=for-the-badge&logo=adobe&logoColor=ff00ff"/>
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/Unity-1a1a2e?style=for-the-badge&logo=unity&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Unreal-1a1a2e?style=for-the-badge&logo=unrealengine&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Blender-1a1a2e?style=for-the-badge&logo=blender&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Adobe-1a1a2e?style=for-the-badge&logo=adobe&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=94a3b8"/>
 </p>
 
 ---
@@ -151,15 +151,15 @@ interests:
 ## 📊 GITHUB SIGNALS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NilamXSC&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff&rank_icon=percentile&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NilamXSC&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=94a3b8&icon_color=94a3b8&text_color=e2e8f0&rank_icon=percentile&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NilamXSC&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&sideLabels=ff00ff&dates=ffffff"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NilamXSC&theme=dark&hide_border=true&background=1a1a2e&ring=94a3b8&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=e2e8f0"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilamXSC&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilamXSC&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=94a3b8&text_color=e2e8f0&langs_count=8"/>
 </p>
 
 ---
@@ -184,10 +184,10 @@ interests:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NilamXSC&color=ff00ff&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=NilamXSC&color=94a3b8&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
 
 <!-- CYBER FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6a0572,100:c3073f&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
 </p>
