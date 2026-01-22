@@ -1,6 +1,6 @@
 <!-- CYBER HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=NILAM&fontSize=60&fontColor=00ffe1&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Nilam&fontSize=50&fontColor=00ffe1&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <h3 align="center" style="color:#00ffe1">
@@ -151,7 +151,7 @@ interests:
 ## 📊 GITHUB SIGNALS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NilamXSC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NilamXSC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=ffffff&rank_icon=percentile&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
@@ -159,15 +159,15 @@ interests:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilamXSC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilamXSC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=ffffff&langs_count=8"/>
 </p>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilamXSC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=Stars,Commits,Repositories,PullRequest,Issues"/>
+  <img src="https://raw.githubusercontent.com/NilamXSC/NilamXSC/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
